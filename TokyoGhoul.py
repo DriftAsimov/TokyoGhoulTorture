@@ -1,8 +1,5 @@
 import time
 
-def typewriter():
-    
-
 welcome = "╔═════════════════════╗ \n\n TORTURE FROM JSON \n\n╚═════════════════════╝"
 
 for i in welcome:
