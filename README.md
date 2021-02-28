@@ -1,4 +1,4 @@
-# TokyoGhoulTorture ![alt text](https://giffiles.alphacoders.com/132/13250.gif =100x)
+# TokyoGhoulTorture ![alt text](https://giffiles.alphacoders.com/132/13250.gif?size=100)
 
 #### Get tortured and experience the pain :]
 
