@@ -16,7 +16,7 @@ fn main()
 
         io::stdin()
             .read_line(&mut answer)
-            .expect("\nWrong answer. -inserts earthworms into your ears-");
+            .expect("\nYou are a fool, you can't read -takes out your eyeballs-");
 
         initial -= 7;
 
