@@ -1,4 +1,3 @@
-#[allow(unused_assignments)]
 use std::io;
 
 fn main()
