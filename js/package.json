@@ -2,7 +2,7 @@
   "name": "javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "torture.js",
+  "main": "main.js",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   },
